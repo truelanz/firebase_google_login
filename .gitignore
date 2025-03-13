@@ -1,0 +1,18 @@
+# Arquivos e pastas do ambiente virtual
+venv/
+Include/
+Lib/
+Scripts/
+share/
+storage/
+pyvenv.cfg
+
+# Outros arquivos comuns em projetos Python/Flet
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.log
