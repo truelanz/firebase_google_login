@@ -6,6 +6,7 @@ Scripts/
 share/
 storage/
 pyvenv.cfg
+KEY.py
 
 # Outros arquivos comuns em projetos Python/Flet
 __pycache__/
